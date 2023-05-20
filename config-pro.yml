@@ -1,2 +1,2 @@
-server:
-  port: 334-pro
+config:
+  info: 334-pro
